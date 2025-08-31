@@ -1,4 +1,5 @@
 # AI-Driven Floor Plan Generator  
+[![DOI](https://zenodo.org/badge/1047950407.svg)](https://doi.org/10.5281/zenodo.17013146)
 
 This repository contains the code developed as part of the Master’s Thesis BIM A+:  
 **"AI-Driven System to Support Early-Stage Floor Plan Generation"**  
